@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "410890331741",
+    "firebase_url": "https://samannegariranian-df1fe.firebaseio.com",
+    "project_id": "samannegariranian-df1fe",
+    "storage_bucket": "samannegariranian-df1fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410890331741:android:58826230aaf806cd164fb4",
+        "android_client_info": {
+          "package_name": "com.negarine.sanannegarexperts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410890331741-rh2ae2lne4lcrmpefqiq26ilmfk0nmvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ4HG1A5WcJzGtSGzMz-ZXf2WJVqWokyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410890331741-rh2ae2lne4lcrmpefqiq26ilmfk0nmvs.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410890331741-p5g2nvfckiaatfeg62nte4qhvamp9ssr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.negarine.samannegar"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
